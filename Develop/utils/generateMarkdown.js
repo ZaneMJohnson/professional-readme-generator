@@ -82,7 +82,7 @@ const generateMarkdown = (data) => {
 
   ## Questions
 
-  ### Github Username: [${data.projectUsername}](www.github.com/${data.projectUsername})
+  ### Github Username: [${data.projectUsername}](https://www.github.com/${data.projectUsername})
 
   #### Additional questions regarding this application can be forwarded to:
   ### User Email: ${data.projectEmail}
